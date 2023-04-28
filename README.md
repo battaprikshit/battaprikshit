@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="readme-assets/giphy.webp" width="35">, I'm Prikshit Batta </h1>
 <h3 align="center">I &#128156; all data things <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="15px"></h3>
 
-I'm a data engineer with experience in Python,SQL,Cloud technologies and a recent graduate from University Of Waterloo.
+I'm a Data engineer with experience in Python,SQL,Cloud technologies and a recent graduate from University Of Waterloo from MEng with specilization in software Engineering. I have 2.5 years of work experience.
 
 I enjoy working with large datasets and designing scalable solutions to complex problems. In my free time, I enjoy learning about new technologies, working on personal projects, and reading.
 
