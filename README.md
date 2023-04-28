@@ -11,8 +11,9 @@ Feel free to explore my GitHub repositories and reach out to me if you have any 
 - 🏏 Cricket lover.
 - 📖 Avid Reader.
 - ⚡ I love roaming in my free time.
-- 📫 How to reach me: <a href="mailto:prikshitbatta@gmail.com">![Email Me!!](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/prikshitbatta/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a> <a href="https://twitter.com/PrikshitBatta">![Twitter](https://camo.githubusercontent.com/ac6e1101f110e5f500287cf70dac72519687620deefb5e8de1fa7ba6a3ba2407/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f706e672f747769747465722e706e67)</a> 
-
+- 📫 How to reach me: <a href="mailto:prikshitbatta@gmail.com">![Email Me!!](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/prikshitbatta/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a> <a href="https://twitter.com/PrikshitBatta">
+  <img src="https://camo.githubusercontent.com/ac6e1101f110e5f500287cf70dac72519687620deefb5e8de1fa7ba6a3ba2407/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f706e672f747769747465722e706e67" alt="Twitter icon" width="50" height="50">
+</a>
 
 <!-- ### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
